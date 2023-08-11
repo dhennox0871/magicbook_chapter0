@@ -336,7 +336,7 @@ class Chapter0 {
   bool? exercise34() {
     // ? Instruksi: Deklarasikan sebuah variabel "output" dengan tipe data String dan beri nilai "3.14159"
     // TODO: Tulis jawabanmu di bawah ini
-
+    String output = "3.14159";
     // --- End of Answer ---
 
     return output is String && output == "3.14159";
@@ -346,7 +346,7 @@ class Chapter0 {
   bool? exercise35() {
     // ? Instruksi: Deklarasikan sebuah variabel "output" dengan tipe data String dan beri nilai "true"
     // TODO: Tulis jawabanmu di bawah ini
-
+    String output = "true";
     // --- End of Answer ---
 
     return output is String && output == "true";
@@ -356,7 +356,7 @@ class Chapter0 {
   bool? exercise36() {
     // ? Instruksi: Deklarasikan sebuah variabel "output" dengan tipe data String dan beri nilai "false"
     // TODO: Tulis jawabanmu di bawah ini
-
+    String output = "false";
     // --- End of Answer ---
 
     return output is String && output == "false";
@@ -366,7 +366,7 @@ class Chapter0 {
   bool? exercise37() {
     // ? Instruksi: Deklarasikan sebuah variabel "output" dengan tipe data String dan beri nilai "Hello, Dart!"
     // TODO: Tulis jawabanmu di bawah ini
-
+    String output = "Hello, Dart!";
     // --- End of Answer ---
 
     return output is String && output == "Hello, Dart!";
@@ -376,7 +376,7 @@ class Chapter0 {
   bool? exercise38() {
     // ? Instruksi: Deklarasikan sebuah variabel "output" dengan tipe data String dan beri nilai "42"
     // TODO: Tulis jawabanmu di bawah ini
-
+    String output = "42";
     // --- End of Answer ---
 
     return output is String && output == "42";
@@ -386,7 +386,7 @@ class Chapter0 {
   bool? exercise39() {
     // ? Instruksi: Deklarasikan sebuah variabel "output" dengan tipe data String dan beri nilai "3.14"
     // TODO: Tulis jawabanmu di bawah ini
-
+    String output = "3.14";
     // --- End of Answer ---
 
     return output is String && output == "3.14";
@@ -396,7 +396,7 @@ class Chapter0 {
   bool? exercise40() {
     // ? Instruksi: Deklarasikan sebuah variabel "output" dengan tipe data String dan beri nilai "Hello, World!"
     // TODO: Tulis jawabanmu di bawah ini
-
+    String output = "Hello, World!";
     // --- End of Answer ---
 
     return output is String && output == "Hello, World!";
