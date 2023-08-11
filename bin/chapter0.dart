@@ -5,6 +5,8 @@ class Chapter0 {
   bool? exercise1() {
     // ? Instruksi: Deklarasikan sebuah variabel "output" dengan tipe data int dan beri nilai 10
     // TODO: Tulis jawabanmu di bawah ini
+
+    int output = 10;
     // --- End of Answer ---
 
     return output is int && output == 10;
@@ -14,7 +16,7 @@ class Chapter0 {
   bool? exercise2() {
     // ? Instruksi: Deklarasikan sebuah variabel "output" dengan tipe data int dan beri nilai 42
     // TODO: Tulis jawabanmu di bawah ini
-
+    int output = 42;
     // --- End of Answer ---
 
     return output is int && output == 42;
@@ -24,7 +26,7 @@ class Chapter0 {
   bool? exercise3() {
     // ? Instruksi: Deklarasikan sebuah variabel "output" dengan tipe data int dan beri nilai -7
     // TODO: Tulis jawabanmu di bawah ini
-
+    int output = -7;
     // --- End of Answer ---
 
     return output is int && output == -7;
@@ -34,7 +36,7 @@ class Chapter0 {
   bool? exercise4() {
     // ? Instruksi: Deklarasikan sebuah variabel "output" dengan tipe data int dan beri nilai 0
     // TODO: Tulis jawabanmu di bawah ini
-
+    int output = 0;
     // --- End of Answer ---
 
     return output is int && output == 0;
@@ -44,7 +46,7 @@ class Chapter0 {
   bool? exercise5() {
     // ? Instruksi: Deklarasikan sebuah variabel "output" dengan tipe data int dan beri nilai 99999
     // TODO: Tulis jawabanmu di bawah ini
-
+    int output = 99999;
     // --- End of Answer ---
 
     return output is int && output == 99999;
@@ -54,7 +56,7 @@ class Chapter0 {
   bool? exercise6() {
     // ? Instruksi: Deklarasikan sebuah variabel "output" dengan tipe data int dan beri nilai -12345
     // TODO: Tulis jawabanmu di bawah ini
-
+    int output = -12345;
     // --- End of Answer ---
 
     return output is int && output == -12345;
@@ -64,7 +66,7 @@ class Chapter0 {
   bool? exercise7() {
     // ? Instruksi: Deklarasikan sebuah variabel "output" dengan tipe data int dan beri nilai 1000000
     // TODO: Tulis jawabanmu di bawah ini
-
+    int output = 1000000;
     // --- End of Answer ---
 
     return output is int && output == 1000000;
@@ -74,7 +76,7 @@ class Chapter0 {
   bool? exercise8() {
     // ? Instruksi: Deklarasikan sebuah variabel "output" dengan tipe data int dan beri nilai -987654
     // TODO: Tulis jawabanmu di bawah ini
-
+    int output = -987654;
     // --- End of Answer ---
 
     return output is int && output == -987654;
@@ -84,7 +86,7 @@ class Chapter0 {
   bool? exercise9() {
     // ? Instruksi: Deklarasikan sebuah variabel "output" dengan tipe data int dan beri nilai 888
     // TODO: Tulis jawabanmu di bawah ini
-
+    int output = 888;
     // --- End of Answer ---
 
     return output is int && output == 888;
@@ -94,7 +96,7 @@ class Chapter0 {
   bool? exercise10() {
     // ? Instruksi: Deklarasikan sebuah variabel "output" dengan tipe data int dan beri nilai -555
     // TODO: Tulis jawabanmu di bawah ini
-
+    int output = -555;
     // --- End of Answer ---
 
     return output is int && output == -555;
@@ -104,7 +106,7 @@ class Chapter0 {
   bool? exercise11() {
     // ? Instruksi: Deklarasikan sebuah variabel "output" dengan tipe data double dan beri nilai 3.14
     // TODO: Tulis jawabanmu di bawah ini
-
+    double output = 3.14;
     // --- End of Answer ---
 
     return output is double && output == 3.14;
@@ -114,7 +116,7 @@ class Chapter0 {
   bool? exercise12() {
     // ? Instruksi: Deklarasikan sebuah variabel "output" dengan tipe data double dan beri nilai 2.71828
     // TODO: Tulis jawabanmu di bawah ini
-
+    double output = 2.71828;
     // --- End of Answer ---
 
     return output is double && output == 2.71828;
@@ -124,7 +126,7 @@ class Chapter0 {
   bool? exercise13() {
     // ? Instruksi: Deklarasikan sebuah variabel "output" dengan tipe data double dan beri nilai -5.67
     // TODO: Tulis jawabanmu di bawah ini
-
+    double output = -5.67;
     // --- End of Answer ---
 
     return output is double && output == -5.67;
@@ -134,7 +136,7 @@ class Chapter0 {
   bool? exercise14() {
     // ? Instruksi: Deklarasikan sebuah variabel "output" dengan tipe data double dan beri nilai 0.0
     // TODO: Tulis jawabanmu di bawah ini
-
+    double output = 0.0;
     // --- End of Answer ---
 
     return output is double && output == 0.0;
